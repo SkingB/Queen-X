@@ -15,25 +15,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
-global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['94706785285'] //ur owner number
+global.ownername = "𝒮𝓀𝒾𝓃𝑔𝐵 𝐵𝒪𝒯" //ur owner name
+global.ytname = "SkingB" //ur yt chanel name
+global.socialm = "𝒮𝓀𝒾𝓃𝑔𝐵 𝐵𝒪𝒯" //ur github or insta name
+global.location = "srilanka" //ur location
 
 //bot bomdy 
 
 global.session = "YXF5RWYwZ0I=" //session Id 
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = '94719225807' //ur bot name
-global.linkz = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
+global.ownernomer = "94706785285" //ur number
+global.premium = ['94706785285'] //ur premium number
+global.botname = '94706785285' //ur bot name
+global.linkz = "https://chat.whatsapp.com/JZWUzWqIUkmIniU6APwayE" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/@skingb" //ur website to be displayed
+global.botscript = 'https://www.instagram.com/_sandalu_buddima_3/' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.packname = "𝒮𝓀𝒾𝓃𝑔𝐵 𝐵𝒪𝒯" //ur sticker watermark packname
+global.author = "𝒮𝓀𝒾𝓃𝑔𝐵 𝐵𝒪𝒯\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
+global.wm = "𝒮𝓀𝒾𝓃𝑔𝐵 𝐵𝒪𝒯." //ur watermark
 
 // Other
 global.sessionName = 'session'
